@@ -5,7 +5,7 @@ const PageNotFound = () => {
         <div id="wrapper" className='my-5'>
             <img src="https://i.imgur.com/qIufhof.png" alt=""/>
             <div id="info">
-                <h1>404- This page could not be found</h1>
+                <h1>404 - This page could not be found</h1>
             </div>
         </div >
     )
