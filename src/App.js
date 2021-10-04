@@ -13,6 +13,7 @@ import Services from "./components/Services/Services";
 import Pricing from "./components/Pricing/Pricing";
 import About from "./components/About/About";
 import Contact from "./components/Contact/Contact";
+import PageNotFound from "./components/PageNotFound/PageNotFound";
 
 
 
@@ -25,11 +26,11 @@ function App() {
         <Banner />
         <Switch>
           <Route exact path={["/home", "/"]} component={Home} />
-          <Route exact path="/home" component={Home} />
           <Route exact path="/services" component={Services} />
           <Route exact path='/pricing' component={Pricing} />
           <Route exact path='/about' component={About} />
           <Route exact path='/contact' component={Contact} />
+          <Route component={PageNotFound} />
         </Switch>
         <Footer />
       </Router>
