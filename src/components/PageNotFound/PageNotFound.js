@@ -2,10 +2,10 @@ import React from 'react'
 
 const PageNotFound = () => {
     return (
-        <div id="wrapper">
+        <div id="wrapper" className='my-5'>
             <img src="https://i.imgur.com/qIufhof.png" alt=""/>
             <div id="info">
-                <h3>This page could not be found</h3>
+                <h1>404- This page could not be found</h1>
             </div>
         </div >
     )
