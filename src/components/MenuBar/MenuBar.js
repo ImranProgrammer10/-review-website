@@ -11,7 +11,12 @@ const MenuBar = () => {
               
             </div>
             <div className="col-md-10">
-              <div className="menu-container ">
+              <div className="menu-container d-flex justify-content-between">
+                <ul>
+                  <li><h2 style={{ color: 'white', fontWeight: 'bold' }}>POWER
+                  <span style={{ color: 'yellow' }}> X</span>
+                </h2></li>
+                </ul>
                 <ul className="d-flex align-items-end justify-content-end">
                     {/* <a href="#" className="items"><li>Home</li></a>
                     <a href="#" className="items"><li>Home</li></a>
