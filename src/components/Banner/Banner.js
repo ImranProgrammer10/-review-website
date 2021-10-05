@@ -16,8 +16,7 @@ const Banner = () => {
              THE BEST FITNESS STUDIO <br /> IN TOWN
             </h1>
             <p className="text-white text-center mt-3">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit
-              tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+            Our virtual training platform offers world-class, signature programming designed to get you stronger and fitter, faster than ever before, and ready to win at the sport of life.
             </p>
             <NavLink to="about" className="mt-3 btn text-white about-btn">About Us</NavLink>
           </div>

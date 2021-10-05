@@ -3,43 +3,43 @@
     "id": 1,
     "name": "FREE FITNESS TRAINING",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Stride-q210c.jpg",
-    "details": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+    "details": "Machines and cables and dumbbells, oh my! ... Free weights include any weight you can pick up and move around, such as dumbbells, barbells, and kettlebells."
   },
   {
     "id": 3,
     "name": "NO COMMITMENT MEMBERSHIPS",
     "image": "https://images.unsplash.com/photo-1578874691223-64558a3ca096?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=435&q=80",
-    "details": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+    "details": "No pressure, no commitment.” Planet Fitness offers extremely low prices and a variety of benefits, including a hassle-free environment, brand name cardio and strength equipment."
   },
   {
     "id": 4,
     "name": "Free Personal Training",
     "image": "https://images.unsplash.com/photo-1547919307-1ecb10702e6f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=388&q=80",
-    "details": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+    "details": "Fitness trainers can show you around the gym, provide instruction on how to use various machines safely and help you design an exercise program that suits your needs."
   },
   {
     "id": 5,
     "name": "Free Medical Monitoring",
     "image": "https://images.unsplash.com/photo-1556817411-31ae72fa3ea0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-    "details": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+    "details": "Area Agencies on Aging (AAA) provides assistance for seniors across the nation. Reach out to your local Area Agency on Aging for help receiving a free medical alert system. "
   },
   {
     "id": 6,
     "name": "Free InBody Screenings",
     "image": "https://images.unsplash.com/photo-1526401485004-46910ecc8e51?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-    "details": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+    "details": "The InBody Scale has been found to be 98% as accurate as a DEXA (Dual-energy X-ray absorptiometry) scan. One major benefit of the InBody Scale over a DEXA scan is that patients do not need to be subjected to any radiation"
   },
   {
     "id": 7,
     "name": "Free Nutritional Counseling",
     "image": "https://images.unsplash.com/photo-1519505907962-0a6cb0167c73?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
-    "details": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+    "details": "Nutrition.gov is a USDA-sponsored website that offers credible information to help you make healthful eating choices. It serves as a gateway to reliable information on nutrition"
   },
   {
     "id": 8,
     "name": "Gym Saltwater Pools",
     "image": "https://images.unsplash.com/photo-1589579234096-25cb6b83e021?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-    "details": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+    "details": "Swimming is already a great way to relax, but swimming in saltwater is known to promote the body's natural relaxation process even more effectively."
   },
   {
     "id": 9,
@@ -51,6 +51,6 @@
     "id": 10,
     "name": "Results of fitness evaluation",
     "image": "https://images.unsplash.com/photo-1591940765155-0604537032a5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=387&q=80",
-    "details": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+    "details": "Fitness testing is a great way to monitor and assess students' ability as it relates to aerobic fitness, strength, and flexibility."
   }
 ]
